@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://https://www.spectramedia.online//</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Pages Bandcamp clés (ça aide Google à comprendre l’intention) -->
+  <url><loc>https://vincentbastille.bandcamp.com/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/vincent-bastille-remixes-2025</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- 16 albums/réleases “preuve + maillage” -->
+  <url><loc>https://vincentbastille.bandcamp.com/album/le-lac</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/true-lp</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/mystic-original-soundtrack-from-the-short-movie</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/enzenia-438-hz-the-frequency-that-bends-time</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/madonna-ray-of-light-vincent-bastille</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/vincent-bastille-the-remixes</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/born-this-way-brown-and-kraft-remix-banger</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/wondering-stars-liquid-drum-bass-edition</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/nana-mouskouri-guten-morgen-sonnenschein-quand-tu-chantes-vincent-bastille-house-remix</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/mystic-the-babs-remixes</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/wejdene-yaniss-coco-vincent-bastille-house-remix</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/jul-wesh-alors-vincent-bastille-remix</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/boom-boom</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/theodora-kongolese-sous-bbl-vincent-bastille-remix</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/mas-que-nada-club-edit</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://vincentbastille.bandcamp.com/album/rick-asley-never-gonna-give-you-up-vincent-bastille-remix</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>
